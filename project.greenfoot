@@ -1,4 +1,11 @@
-#Greenfoot properties
-#Sat Sep 12 16:36:23 BRT 2015
+#Greenfoot project file
+class.SpaceWorld.image=space1.jpg
+class.SpaceWorld.superclass=greenfoot.World
+mainWindow.height=744
+mainWindow.width=1382
+mainWindow.x=-8
+mainWindow.y=-8
+package.numDependencies=0
 project.charset=UTF-8
 version=2.7.1
+world.lastInstantiated=SpaceWorld
